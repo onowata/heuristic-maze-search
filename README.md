@@ -1,5 +1,4 @@
 # heuristic-maze-search
-# heuristic-maze-search
 
 ## 概要
 
